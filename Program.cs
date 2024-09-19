@@ -36,7 +36,7 @@ namespace HW_19_09_2_
                     case 3: 
                         {
                             process.StartInfo.FileName = "mspaint.exe";
-                            //process.StartInfo.FileName = @"C:\Windows\Sysnative\mspaint.exe";
+                            
 
 
                             break;
